@@ -8,7 +8,7 @@
 <h2>技术栈</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,webpack,nodejs,nestjs,md,docker,redis,mysql" />
+    <img src="https://skillicons.dev/icons?i=vue,react,js,ts,webpack,nodejs,nestjs,md,docker,redis,mysql" />
   </a>
 </p>
 <p align="center">
