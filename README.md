@@ -20,6 +20,4 @@
 
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccc1018)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccc1018&size_weight=0.5&count_weight=0.5&langs_count=8)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ccc1018&left_color=green&right_color=red)
-
 ![](https://stats.justsong.cn/api/csdn?username=ccc1018&cn=true)
