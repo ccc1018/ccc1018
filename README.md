@@ -11,11 +11,7 @@
     <img src="https://skillicons.dev/icons?i=react,js,ts,webpack,nodejs,nestjs,md,docker,redis,mysql" />
   </a>
 </p>
-<br>
-<p align="center">
-  ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccc1018)
-</p>
-<br>
+![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccc1018)
 <p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccc1018&size_weight=0.5&count_weight=0.5&langs_count=8)
 </p>
