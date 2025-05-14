@@ -12,13 +12,9 @@
   </a>
 </p>
 <h2>统计卡片</h2>
-<p align="center">
  ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccc1018)
-</p>
 <h2>使用语言统计</h2>
-<p align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccc1018&size_weight=0.5&count_weight=0.5&langs_count=8)
-</p>
 <br>
 <h2>访客徽章</h2>
 <p align="center">
