@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hey, I’m ccc1018
-- 📫 Email: 2071138578@qq.com
+- 📫 Email: ccc20031018@gmail.com
 - 💬 微信：wxid_63b8ar54e3n822
 
 
