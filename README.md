@@ -2,9 +2,12 @@
 - 👋 Hey, I’m ccc1018
 - 📫 Email: ccc20031018@gmail.com
 - 💬 微信：wxid_63b8ar54e3n822
-- blog https://cccdhm.vercel.app
 
+### 🏠 Blog:
 
+- **[ccc1018 - Vercel](https://cccdhm.vercel.app)**
+
+- **[ccc1018 - JueJin](https://juejin.cn/user/4108208657153000)**
 
 <h2>技术栈</h2>
 <p align="center">
