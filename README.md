@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👋 Hey, I’m ccc1018
 - 📫 Email: ccc20031018@gmail.com
-- 💬 微信：Coefu_1018
+- 💬 微信：wxid_kcfoziqdqm6f12
 
 ### 🏠 Blog:
 
